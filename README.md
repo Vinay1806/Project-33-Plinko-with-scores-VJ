@@ -1,1 +1,2 @@
-# Project-36-Virtual-Pet-II-VJ
+# p5.play-boilerplate
+Boiler plate for p5.play
